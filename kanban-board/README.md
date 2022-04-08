@@ -2,7 +2,7 @@
 만들어야 할 시스템은 칸반보드입니다.
 
 
-### 사전정보
+## 사전정보
 #### 칸반보드란?
 
 ```
@@ -12,13 +12,13 @@
 예시) [Trello](https://trello.com/),[Asana](https://asana.com/ko)
 
 
-### 요구사항
+## 요구사항
 * React를 이용하여 웹 어플리케이션을 만들어주세요
 * 아래의 기능명세에 맞춰 개발해주세요
 * 사용가능한 언어:Javascript/Typescript
 
 
-### 기능명세
+## 기능명세
 
 
 * 칸반보드의 카드와 리스트가 필요합니다.
@@ -30,6 +30,6 @@
 
 
 
-### 구현예시
+## 구현예시
 [kanban-board](https://www.figma.com/file/bFoA0pFWHDzWiHplBo3To3/TIM-FLOW-Control-Plan?node-id=72%3A2)
 
